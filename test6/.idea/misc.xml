@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kosty/StudioProjects/test6/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/kosty/StudioProjects/test6/app/src/main/res/drawable/ic_baseline_image_not_supported_24.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/kosty/StudioProjects/test6/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kosty/StudioProjects/test6/app/src/main/res/layout/activity_open.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/kosty/StudioProjects/test6/app/src/main/res/layout/image_open.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/kosty/StudioProjects/test6/app/src/main/res/layout/layout_movies_item.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
